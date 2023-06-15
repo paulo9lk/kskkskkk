@@ -1,0 +1,29 @@
+{
+    "name": "api",
+    "version": "1.0.0",
+    "description": "restapi",
+    "main": "app.js",
+    "scripts": {
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "nodejs",
+      "express",
+      "restapi"
+    ],
+    "author": "aaa",
+    "license": "ISC",
+    "dependencies": {
+      "fs": "^0.0.1-security",
+      "express": "^4.17.1",
+      "telegram": "^2.5.22",
+      "input": "^1.0.1",
+      "cors": "^2.8.5"
+
+
+  
+     
+    }
+  }
+  
